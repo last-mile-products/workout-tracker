@@ -1,0 +1,7 @@
+[
+  {
+    "origin": ["http://localhost:3000", "https://workout-tracker-263c1.web.app"],
+    "method": ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    "maxAgeSeconds": 3600
+  }
+] 
